@@ -7,4 +7,6 @@ public class Driver {
         WebDriverManager.chromedriver().setup();
         WebDriver driver = new ChromeDriver();
     }
+
+
 }
