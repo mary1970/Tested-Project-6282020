@@ -6,5 +6,6 @@ public class Driver {
     public void mainTest() throws InterruptedException {
         WebDriverManager.chromedriver().setup();
         WebDriver driver = new ChromeDriver();
+
     }
 }
